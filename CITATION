@@ -1,4 +1,12 @@
-Authors: Itza Hernandez
-Title: GeoPythonWorkshop2023_SSL
-Publication Date: March 1, 2023
-URL: https://github.com/itzahs/GeoPythonWorkshop2023_SSL
+@misc{geopythonworkshop2023ssl,
+  author       = {Hernandez, Itza},
+  title        = {GeoPythonWorkshop2023\_SSL},
+  year         = {2023},
+  howpublished = {\url{https://github.com/itzahs/GeoPythonWorkshop2023_SSL}},
+  note         = {Accessed: INSERT DATE HERE},
+  publisher    = {GitHub},
+  url          = {https://github.com/itzahs/GeoPythonWorkshop2023_SSL},
+  doi          = {},
+  license      = {MIT}
+}
+
