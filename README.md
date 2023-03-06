@@ -5,6 +5,7 @@ This repository contains the codes for the GeoPython Workshop held in Basel, Swi
 
 If you use this repository in your research, please cite it using the following BibTeX snippet:
 
+```bibtex
 @misc{geopythonworkshop2023ssl,
 author = {Hernandez, Itza},
 title = {GeoPythonWorkshop2023_SSL},
