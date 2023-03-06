@@ -10,6 +10,10 @@ author = {Hernandez, Itza},
 title = {GeoPythonWorkshop2023_SSL},
 year = {2023},
 howpublished = {\url{https://github.com/itzahs/GeoPythonWorkshop2023_SSL}},
+publisher = {GitHub},
+url = {https://github.com/itzahs/GeoPythonWorkshop2023_SSL},
+doi = {},
+license = {MIT}
 }
 
 
