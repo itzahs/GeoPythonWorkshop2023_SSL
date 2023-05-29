@@ -1,5 +1,5 @@
 # GeoPythonWorkshop2023_SSL
-This repository contains the codes for the GeoPython Workshop held in Basel, Switzerland on March 2023.
+This repository contains the codes for the [GeoPython Workshop](https://2023.geopython.net/talks.html#workshops) held in Basel, Switzerland on March 2023.
 
 With the help of current semi-supervised learning algorithms, we can classify aerial scenes using 4, 20, or 40 labeled examples per class and still obtain similar accuracies as training with numerous labeled examples. With this workshop, we want to show the semi-supervised learning algorithms currently available and how to use the repositories available for scene classification.
 
