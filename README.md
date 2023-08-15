@@ -6,7 +6,10 @@ With the help of current semi-supervised learning algorithms, we can classify ae
 During the workshop, we’ll go through the strategic use of git to get the repository, an explanation of the usage of the code, setting up the environment, and the training of the algorithm. We’ll finalize the workshop with the implementation of the best model for scene classification with semi-supervised learning.
 
 ## Example
-To check the results of the training using CoMatch on UCM with 4 labeled examples per class, download the compressed file "results_comatch". It contains the configuration file (.py), the log file of the training (.log), and the best model (.pth).
+To check the training results using CoMatch on UCM with 4 labeled examples per class, download the compressed file "results_comatch_ucm_wrn_b1x8_l4". It contains the configuration file (.py), the log file of the training (.log), and the best model (.pth) for this model using a batch size of 8 on a single GPU.
+
+The command used for this on the toolbox was:
+
 
 ## Citation
 
