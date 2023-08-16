@@ -11,7 +11,7 @@ To check the training results using CoMatch on UCM with 4 labeled examples per c
 To train the model, we executed the following command in the terminal:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python3 train_semi.py --cfg ./configs/4_pc/comatch/fm_ucm_wres_x2_b1x8_l84.py --out ./results_4pc/comatch/fm_ucm_wres_x2_b1x8_l84 --seed 5
+CUDA_VISIBLE_DEVICES=0 python3 train_semi.py --cfg ./configs/4_perclass/comatch/comatch_ucm_wrn_b1x8_l4.py --out ./results/4_perclass/comatch/comatch_ucm_wrn_b1x8_l4 --seed 5
 
 
 
