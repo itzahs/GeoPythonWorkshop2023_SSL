@@ -8,23 +8,11 @@ During the workshop, we’ll go through the strategic use of git to get the repo
 ## Example
 To check the training results using CoMatch on UCM with 4 labeled examples per class, download the compressed file "results_comatch_ucm_wrn_b1x8_l4". It contains the configuration file (.py), the log file of the training (.log), and the best model (.pth) for this model using a batch size of 8 on a single GPU.
 
-The command used for this on the toolbox was:
+To train the model, we executed the following command in the terminal:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python3 train_semi.py --cfg ./configs/4_pc/comatch/fm_ucm_wres_x2_b1x8_l84.py --out ./results_4pc/comatch/fm_ucm_wres_x2_b1x8_l84 --seed 5
 
 
-## Citation
-
-If you use this repository in your research, please cite it using the following BibTeX snippet:
-
-```bibtex
-@misc{geopythonworkshop2023ssl,
-author = {Hernandez, Itza},
-title = {GeoPythonWorkshop2023_SSL},
-year = {2023},
-howpublished = {\url{https://github.com/itzahs/GeoPythonWorkshop2023_SSL}},
-publisher = {GitHub},
-url = {https://github.com/itzahs/GeoPythonWorkshop2023_SSL},
-doi = {},
-license = {MIT}
-}
 
 
